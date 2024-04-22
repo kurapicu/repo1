@@ -22,7 +22,7 @@ public class calculator {
             System.out.println(firstDIGIT / secondDIGIT);
         }
         else {
-            System.out.println("errorj");
+            System.out.println("error");
         }
     }
 }
