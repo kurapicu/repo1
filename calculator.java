@@ -16,7 +16,7 @@ public class calculator {
             case "+" -> System.out.println(firstDIGIT + secondDIGIT);
             case "-" -> System.out.println(firstDIGIT - secondDIGIT);
             case "/" -> System.out.println(firstDIGIT / secondDIGIT);
-            default -> System.out.println("errorj");
+            default -> System.out.println("error");
         }
     }
 }
